@@ -1,0 +1,3 @@
+运行环境 sql server服务开启	设置用户名 sa 密码 1. 或者更改sqlml中的地址用户名
+python3.8 请配置好环境变量 需安装pymssql模块,在cmd窗口 pip3 install pymssql
+
